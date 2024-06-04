@@ -8,4 +8,4 @@ Then you just open your text editor and start working!
 
 ## The start
 
-The very first basics, like outputs and inputs are [here](../estudosPython/thebasics/basics.md).
+The very first basics, like outputs and inputs are [here](/thebasics/basics.md).
