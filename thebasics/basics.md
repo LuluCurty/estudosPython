@@ -6,3 +6,5 @@ Here are the basics of python.
 - [Data and Declarations](./data_types_and_declarations.py)
 - [Using Variables](./using_variables.py)
 - [Operators](./operators.py)
+- [logic](./logic.py)
+- [Loops](./loops.py)
