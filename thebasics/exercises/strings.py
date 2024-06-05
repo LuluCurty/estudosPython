@@ -25,7 +25,7 @@ print(f"{name_testing.__len__()}")
 # this does not work, well it would be messy if it did
 
 #but this works!
-print(f"{name_testing[::-1]}")
+print(f"{name_testing[::-1]} REVERSO!")
 #cool!
 
 name_testing = list(name_testing)
